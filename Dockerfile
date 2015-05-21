@@ -1,5 +1,4 @@
 FROM ruby:2.1
-MAINTAINER Xu Fan <drowterran@gmail.com>
 
 # install fake-s3
 RUN gem install fakes3
